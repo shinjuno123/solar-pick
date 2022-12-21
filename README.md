@@ -17,7 +17,7 @@
 - Graph and Ranking screen backend & frontend development.
 - Link this system to SQLite and Firebase.
 - Creates and Test queuries of SQLite and Firebase
-- Integrate unit data made by other team membbers and convert the integrated data to JSON.
+- Integrate unit data made by other team membbers and convert the integrated data to JSON using pandas.
 
 ## Development Motivation
 
